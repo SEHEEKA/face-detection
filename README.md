@@ -1,1 +1,1 @@
-# PRO-C106-Reference-Code
+# Face detection using Haar Cascade classification
